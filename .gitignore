@@ -1,0 +1,21 @@
+
+# OS/editor cache
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python/Jupyter (if any analysis is added later)
+__pycache__/
+.ipynb_checkpoints/
+
+# Build artifacts (generic)
+build/
+dist/
+out/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
